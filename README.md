@@ -1,0 +1,2 @@
+# scalabuzz
+fizzbuzz in scala
